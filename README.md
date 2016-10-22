@@ -1,6 +1,6 @@
-Scaffolding - Angular 2 - Express Generator
-==================
-**Instruction ** <i class="icon-cog"></i> **Settings**.
+#Scaffolding - Angular 2 - Express Generator
+=================
+
 
 ----------
 
@@ -49,5 +49,3 @@ abrir otro Simbolo del sistema
 ```
 npm start
 ```
-
-
