@@ -1,11 +1,8 @@
 #Scaffolding - Angular 2 - Express Generator
 =================
 
-
-----------
-
 > ***Note:***
-> - ***Architecture *** [Client-Server](https://es.wikipedia.org/wiki/Cliente-servidor)
+>  - Architecture  [Client-Server](https://es.wikipedia.org/wiki/Cliente-servidor)
 
 ----------
 ### Quick Start
