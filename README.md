@@ -30,7 +30,7 @@ npm run typings install
 ``` 
 -------
 ### Run server Express
- volver al directorio principal  ***Scaffoldinf-Angular2-Express>***
+ volver al directorio principal  ***Scaffolding-Angular2-Express>***
 ```
 cd ..
 ```
@@ -45,7 +45,7 @@ Mas información [ Express Generator](http://expressjs.com/es/starter/generator.
 ### Run Client
 
 abrir otro Simbolo del sistema
- ir al directorio del cliente ***/Scaffoldinf-Angular2-Express/client>***
+ ir al directorio del cliente ***/Scaffolding-Angular2-Express/client>***
 ```
 npm start
 ```
