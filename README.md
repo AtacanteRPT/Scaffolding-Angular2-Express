@@ -47,3 +47,6 @@ abrir otro Simbolo del sistema
 ```
 npm start
 ```
+```
+## loclahost: 3000
+```
