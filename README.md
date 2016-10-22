@@ -17,7 +17,7 @@ cd Scaffolding-Angular2-Express
 # server install 
 npm install 
 ```
-```
+```sh
 # cambiar directorio del cliente
 cd client
 #
