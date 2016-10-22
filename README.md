@@ -4,8 +4,8 @@
 
 ----------
 
-> **Note:**
-> - **Architecture **  **[Client-Server](https://es.wikipedia.org/wiki/Cliente-servidor) **
+> ***Note:***
+> - ***Architecture *** [Client-Server](https://es.wikipedia.org/wiki/Cliente-servidor)
 
 ----------
 ### Quick Start
