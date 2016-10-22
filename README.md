@@ -35,6 +35,7 @@ cd ..
 # inicializar servidor con windows
 set DEBUG=Scaffolding-Angular2-Express:* & npm start
 ```
+
 Mas información [ Express Generator](http://expressjs.com/es/starter/generator.html)
 
 ---
